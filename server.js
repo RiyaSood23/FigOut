@@ -3,7 +3,8 @@ require('dotenv').config();
 
 const app = express();
 app.use(express.json());
-
+const authRoutes = require('./src/routes/authRoutes');
+app.use('/api/auth', authRoutes);
 app.get('/health', (req, res) => {
   res.json({ status: 'server is alive' });
 });
