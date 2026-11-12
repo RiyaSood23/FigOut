@@ -25,33 +25,12 @@ Figout provides a structured environment where students can manage different asp
 
 The platform focuses on simplifying productivity, encouraging consistency, and making progress measurable.
 
-## 🛠️ Tech Stack
-
-*Update this section according to the technologies actually used in the project.*
-
-- **Frontend:** [Add technologies]
-- **Backend:** [Add technologies]
-- **Database:** [Add database]
-- **Tools:** Git, GitHub, VS Code
-
-## 📸 Screenshots
-
-Add screenshots of your application here.
-
-| Dashboard | DSA Tracker |
-|---|---|
-| Add screenshot | Add screenshot |
-
-| Goal Management | Project Management |
-|---|---|
-| Add screenshot | Add screenshot |
-
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:
 
    ```bash
-   git clone <YOUR_REPOSITORY_URL>
+   git clone 
    ```
 
 2. Navigate to the project directory:
@@ -84,15 +63,6 @@ Add screenshots of your application here.
 - AI-powered study and productivity recommendations.
 - Collaborative features and accountability tracking.
 - Detailed performance insights.
-
-## 🤝 Contributing
-
-Contributions, suggestions, and feedback are welcome!
-
-1. Fork the repository.
-2. Create a new branch.
-3. Commit your changes.
-4. Open a Pull Request.
 
 ## 👩‍💻 Author
 
